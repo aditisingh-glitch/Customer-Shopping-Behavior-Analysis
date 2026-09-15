@@ -37,6 +37,9 @@ The project follows an end-to-end analytics workflow:
 | **GitHub** | Project documentation and version control |
 
 
+## 📊 Power BI Dashboard
+
+![Customer Shopping Behavior Dashboard](Screenshot%202026-09-15%20162301.png)
 
 ---
 
